@@ -1,7 +1,7 @@
 import React,{useState} from 'react'
 import Profile from './components/Profile'
 import UserInfo from './components/UserInfo'
-import Register from './components/register'
+
 import Info from './Info/information.json'
 import { InformationContext } from './contexts/informationContext'
 import Swipe from './components/Swipe'
