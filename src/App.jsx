@@ -22,7 +22,7 @@ const App = () => {
  
 
   return (
-    <div className='bg-slate-900 w-full h-screen'>
+    <div className='bg-slate-900 w-full min-h-screen h-full'>
       <InformationContext.Provider value={Info}>
         <Profile sid={sid} />
         <UserInfo sid={sid} />

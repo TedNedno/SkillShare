@@ -8,8 +8,8 @@ const UserInfo = ({sid}) => {
     const user= data.find(student => student.sid==sid);
    
   return (
-    <main className='w-full max-h-2/3 flex flex-col px-2 text-slate-200'>
-      <article className="my-1 text-5xl">{user.Name},{user.age}</article>
+    <main className='w-full max-h-3/5 absolute bottom-0 bg-slate-900 flex flex-col px-2 text-slate-200'>
+      <article className="my-1 text-5xl text-center">{user.Name},{user.age}</article>
       <article className="my-1 text-3xl">{user.description}</article>
       <article className=" text-xl">Skills I Know</article>
       <section>
