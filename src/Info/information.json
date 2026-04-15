@@ -1,0 +1,112 @@
+[
+  {
+    "sid": 1,
+    "icon": "N",
+    "Name": "Nick Kane",
+    "age": 21,
+    "city": "Kathmandu",
+    "description": "I am a person passionate about guitar",
+    "skills": ["Dancing", "Singing"],
+    "interest": "Guitar",
+    "email": "nick.kane@example.com"
+  },
+  {
+    "sid": 2,
+    "icon": "S",
+    "Name": "Sita Rai",
+    "age": 22,
+    "city": "Pokhara",
+    "description": "I love teaching math and solving logical problems",
+    "skills": ["Teaching", "Problem Solving"],
+    "interest": "Mathematics",
+    "email": "sita.rai@example.com"
+  },
+  {
+    "sid": 3,
+    "icon": "R",
+    "Name": "Rohan Gurung",
+    "age": 20,
+    "city": "Lalitpur",
+    "description": "Tech enthusiast who enjoys coding web apps",
+    "skills": ["HTML", "JavaScript"],
+    "interest": "Web Development",
+    "email": "rohan.gurung@example.com"
+  },
+  {
+    "sid": 4,
+    "icon": "A",
+    "Name": "Anjali Thapa",
+    "age": 23,
+    "city": "Biratnagar",
+    "description": "Creative designer passionate about art and UI design",
+    "skills": ["UI Design", "Sketching"],
+    "interest": "Graphic Design",
+    "email": "anjali.thapa@example.com"
+  },
+  {
+    "sid": 5,
+    "icon": "K",
+    "Name": "Kiran KC",
+    "age": 24,
+    "city": "Butwal",
+    "description": "Fitness lover who enjoys guiding others",
+    "skills": ["Workout Training", "Motivation"],
+    "interest": "Fitness",
+    "email": "kiran.kc@example.com"
+  },
+  {
+    "sid": 6,
+    "icon": "M",
+    "Name": "Maya Shrestha",
+    "age": 21,
+    "city": "Bhaktapur",
+    "description": "Passionate about cooking and experimenting with recipes",
+    "skills": ["Cooking", "Baking"],
+    "interest": "Food",
+    "email": "maya.shrestha@example.com"
+  },
+  {
+    "sid": 7,
+    "icon": "D",
+    "Name": "Dipesh Adhikari",
+    "age": 22,
+    "city": "Chitwan",
+    "description": "Interested in photography and capturing moments",
+    "skills": ["Photography", "Editing"],
+    "interest": "Travel",
+    "email": "dipesh.adhikari@example.com"
+  },
+  {
+    "sid": 8,
+    "icon": "N",
+    "Name": "Nisha Tamang",
+    "age": 20,
+    "city": "Dharan",
+    "description": "Loves singing and performing on stage",
+    "skills": ["Singing", "Public Speaking"],
+    "interest": "Music",
+    "email": "nisha.tamang@example.com"
+  },
+  {
+    "sid": 9,
+    "icon": "S",
+    "Name": "Suman Bhandari",
+    "age": 23,
+    "city": "Nepalgunj",
+    "description": "Interested in business and entrepreneurship",
+    "skills": ["Marketing", "Communication"],
+    "interest": "Business",
+    "email": "suman.bhandari@example.com"
+  },
+  {
+    "sid": 10,
+    "icon": "P",
+    "Name": "Pooja Karki",
+    "age": 21,
+    "city": "Janakpur",
+    "description": "Enjoys writing and storytelling",
+    "skills": ["Writing", "Content Creation"],
+    "interest": "Literature",
+    "email": "pooja.karki@example.com"
+  }
+]
