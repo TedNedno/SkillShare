@@ -1,7 +1,7 @@
 [
   {
     "sid": 1,
-    "icon": "N",
+    "icon": "M",
     "Name": "Nick Kane",
     "age": 21,
     "city": "Kathmandu",
@@ -12,7 +12,7 @@
   },
   {
     "sid": 2,
-    "icon": "S",
+    "icon": "F",
     "Name": "Sita Rai",
     "age": 22,
     "city": "Pokhara",
@@ -23,7 +23,7 @@
   },
   {
     "sid": 3,
-    "icon": "R",
+    "icon": "M",
     "Name": "Rohan Gurung",
     "age": 20,
     "city": "Lalitpur",
@@ -34,7 +34,7 @@
   },
   {
     "sid": 4,
-    "icon": "A",
+    "icon": "F",
     "Name": "Anjali Thapa",
     "age": 23,
     "city": "Biratnagar",
@@ -45,7 +45,7 @@
   },
   {
     "sid": 5,
-    "icon": "K",
+    "icon": "M",
     "Name": "Kiran KC",
     "age": 24,
     "city": "Butwal",
@@ -56,7 +56,7 @@
   },
   {
     "sid": 6,
-    "icon": "M",
+    "icon": "F",
     "Name": "Maya Shrestha",
     "age": 21,
     "city": "Bhaktapur",
@@ -67,7 +67,7 @@
   },
   {
     "sid": 7,
-    "icon": "D",
+    "icon": "M",
     "Name": "Dipesh Adhikari",
     "age": 22,
     "city": "Chitwan",
@@ -78,7 +78,7 @@
   },
   {
     "sid": 8,
-    "icon": "N",
+    "icon": "F",
     "Name": "Nisha Tamang",
     "age": 20,
     "city": "Dharan",
@@ -89,7 +89,7 @@
   },
   {
     "sid": 9,
-    "icon": "S",
+    "icon": "M",
     "Name": "Suman Bhandari",
     "age": 23,
     "city": "Nepalgunj",
@@ -100,7 +100,7 @@
   },
   {
     "sid": 10,
-    "icon": "P",
+    "icon": "F",
     "Name": "Pooja Karki",
     "age": 21,
     "city": "Janakpur",
