@@ -6,9 +6,11 @@ import Info from './Info/information.json'
 import { InformationContext } from './contexts/informationContext'
 import Swipe from './components/Swipe'
 import icon from "./assets/burger-bar.png"
+import Extra from './components/Extra'
 
 const App = () => {
   const [sid, setSid] = useState(() => Math.floor(Math.random() * 10) + 1);
+  const [navbar,setNavbar] = useState(false);
 
 
   const nextSid = () => {
@@ -19,7 +21,12 @@ const App = () => {
     setSid((prev) => (prev > 1 ? prev - 1 : 10));
   };
 
- 
+ const handleNavbar = ()=>{
+    setNavbar(prev => !prev)
+ }
+ const closeNavbar=()=>{
+    setNavbar(false);
+ }
 
   return (
     <div className='bg-slate-900 w-full min-h-screen h-full'>
@@ -34,8 +41,10 @@ const App = () => {
             src={icon} 
             alt="more"
             className='absolute top-0 right-2 w-10 h-10 cursor-pointer'
+            onClick={handleNavbar}
           />
         </nav>
+        {navbar && <Extra onClick={closeNavbar} />}
       </InformationContext.Provider>
     </div>
   );
