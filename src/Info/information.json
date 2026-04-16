@@ -23,7 +23,7 @@
   },
   {
     "sid": 3,
-    "icon": "M",
+    "icon": "K",
     "Name": "Rohan Gurung",
     "age": 20,
     "city": "Lalitpur",
@@ -34,7 +34,7 @@
   },
   {
     "sid": 4,
-    "icon": "F",
+    "icon": "P",
     "Name": "Anjali Thapa",
     "age": 23,
     "city": "Biratnagar",
@@ -56,7 +56,7 @@
   },
   {
     "sid": 6,
-    "icon": "F",
+    "icon": "W",
     "Name": "Maya Shrestha",
     "age": 21,
     "city": "Bhaktapur",
@@ -67,7 +67,7 @@
   },
   {
     "sid": 7,
-    "icon": "M",
+    "icon": "Ma",
     "Name": "Dipesh Adhikari",
     "age": 22,
     "city": "Chitwan",
