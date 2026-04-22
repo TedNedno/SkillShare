@@ -10,9 +10,9 @@ const Login = ({onClick}) => {
                 className="absolute top-2 left-0 w-10 h-10"
                 onClick={onClick}
         />
-  <form className="w-full max-w-sm p-5 bg-white rounded-xl shadow space-y-4">
+  <form className="w-full h-160 overflow-y-auto max-w-sm p-5 bg-white rounded-xl shadow space-y-4 ">
     
-    <h1 className="text-xl font-semibold text-gray-900">Register</h1>
+    <h1 className="text-xl font-semibold text-gray-900 text-center">Login</h1>
 
     <div>
       <label className="text-sm text-gray-700 mb-1 block">Full Name</label>
